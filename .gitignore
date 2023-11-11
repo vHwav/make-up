@@ -1,0 +1,7 @@
+node_modules
+{
+	"scripts": {
+    "dev": "browser-sync <프로젝트_폴더> -w",
+		"dev:ui": "pnpm dev --open 'ui'"
+  }
+}

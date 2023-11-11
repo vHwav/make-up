@@ -1,0 +1,6 @@
+{
+	"scripts": {
+    "dev": "browser-sync docs -w",
+		"dev:ui": "pnpm dev --open 'ui'"
+  }
+}
